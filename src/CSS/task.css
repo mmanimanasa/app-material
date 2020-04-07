@@ -1,0 +1,16 @@
+.task {
+    background-color: white;
+    margin-right: 100px;
+    text-align: center;
+    
+}
+
+.circle {
+    height: 70px;
+  width: 70px;
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
+  border-radius: 50%; 
+  background: rgb(231, 234, 235);
+  }
